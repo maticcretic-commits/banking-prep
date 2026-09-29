@@ -408,6 +408,28 @@ questions: [
 { q: "The Cash Reserve Ratio (CRR) is maintained by banks with:",
   options: ["The RBI", "NABARD", "Their own vaults", "SEBI"],
   answer: 0, expl: "CRR is the share of deposits banks must park with the RBI in cash — and unlike SLR securities, CRR balances earn no interest." }
+,
+{ q: "In Sep 2026 the RBI announced OMO sales of ₹1 lakh crore in three tranches. The objective of these open-market operations is to:",
+  options: ["Absorb (drain) surplus liquidity from the banking system", "Inject emergency funds into weak banks", "Fix the rupee's exchange rate", "Lend directly to NBFCs"],
+  answer: 0, expl: "OMO sales = RBI sells government securities, sucking rupees out of the system; the move followed Governor Sanjay Malhotra's remark that ‘nothing is off the table’ to drain surplus liquidity." },
+{ q: "The RBI's 26-day variable rate reverse repo (VRRR) auction in Sep 2026, notified for ₹5 lakh crore, attracted bids of only ₹60,449 crore. The weak response signals:",
+  options: ["Banks' reluctance to park funds through VRRR at that tenor", "A shortage of government securities", "Banks are short of cash", "The RBI rejected most bids"],
+  answer: 0, expl: "Under-subscription at a VRRR auction means banks did not want to lock funds with the RBI for 26 days — treasury heads read it as reluctance to participate." },
+{ q: "A Sep 2026 Reuters poll of 61 economists expects the RBI's Monetary Policy Committee at its 5–7 October meeting to:",
+  options: ["Raise the repo rate by 25 bps to 5.50%, the first hike since February 2023", "Cut the repo rate by 50 bps", "Hold the repo rate at 5.25% again", "Widen the policy corridor"],
+  answer: 0, expl: "38 of 61 economists expect 25 bps to 5.50% as inflation accelerated to 4.82% in August — above the 4% target for the third straight month." },
+{ q: "Governor Sanjay Malhotra said in Sep 2026 that for draining surplus liquidity ‘nothing is off the table’, naming CRR, cash management bills and:",
+  options: ["The Market Stabilisation Scheme (MSS)", "The PM MUDRA Yojana", "Priority sector lending certificates", "Sovereign gold bonds"],
+  answer: 0, expl: "MSS lets the RBI issue government securities to absorb excess liquidity; Malhotra flagged CRR, MSS and cash management bills as available tools." },
+{ q: "India's commercial paper market touched ₹6.53 lakh crore in Sep 2026, up 24% year-on-year. Commercial paper is:",
+  options: ["An unsecured short-term money-market instrument issued by companies", "A long-term government bond", "A type of bank savings account", "RBI's own currency notes"],
+  answer: 0, expl: "CP is short-term unsecured corporate borrowing; issuance surged after the RBI's rate cut and the concessional FCNR-B swap window, with top-rated firms like NTPC borrowing near 5.60%." },
+{ q: "When the RBI holds the repo rate (as at 5.25% in August 2026), what happens to existing loans linked to an external benchmark (EBLR)?",
+  options: ["No benchmark-driven rate change comes from that decision", "Rates rise automatically by 25 bps", "Banks must switch borrowers to MCLR", "EMIs are frozen for a year"],
+  answer: 0, expl: "With the benchmark unchanged, there is no benchmark-triggered repricing from that policy decision; lenders continue pricing on their own spread framework." },
+{ q: "By Sep 2026, nearly half of India's inflation basket was rising 4%+ year-on-year, up from about a third in March. Economists read this as:",
+  options: ["Broadening inflation — the case for the RBI to tighten", "Deflation risk", "Proof that food prices fell", "A reason to cut CRR immediately"],
+  answer: 0, expl: "Price pressures seeping into the broader basket — with ~8% Q1 GDP growth and 19%+ credit growth — strengthened the case for an October rate hike." }
 ]
 },
 
